@@ -17,6 +17,7 @@
 | --- | --- |
 
 <br>
+<hr>
 
 <h1 align="center">About Me! 😎</h1><br>
 
@@ -79,7 +80,7 @@ if (php_sapi_name() === 'cli') {
     print_r($me->getInfo());
 }
 ```
-<br><br>
+<br><hr><br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div>
   <p>📚 I love learning new tools, languages, and methodologies.</p>
@@ -90,8 +91,8 @@ if (php_sapi_name() === 'cli') {
   <p>⚡ I constantly look for opportunities to automate repetitive tasks.</p>
 </div>
 
-<br><br><br>
-
+<br><br>
+<hr>
 <!--h1-->
 <h1 align="center">Technologies That I Know👨🏻‍💻</h1><br>
 
@@ -102,3 +103,7 @@ if (php_sapi_name() === 'cli') {
       />
   </a>
 </p>
+<br>
+
+<hr>
+<h1 align="center">Thank You! 🤵</h1>
