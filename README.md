@@ -9,8 +9,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Languages-->
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-quero&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<!-- languages -->
+| Pull Request Size    | Pull Request Lifecycle    |
+| -----------------    | ----------------------    |
+|<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-quero&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-quero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">|
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -22,6 +24,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,md,html,css,js,java,php,py,spring,laravel,symfony,express,npm,nodejs,react,mysql,postgresql,mongodb,wordpress,bootstrap,postman,nginx,cloudflare,vscode,visualstudio,sublime,atom,idea,phpstorm,pycharm,notion,obsidian,ubuntu,mint,linux,windows&perline=10"
+      />
   </a>
 </p>
