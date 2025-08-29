@@ -11,7 +11,7 @@
 <h1 align="center">Stats 📈</h1><br>
 <!-- languages -->
 
-|<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-quero&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=s-quero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">|<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" />
+|<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=s-quero&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/><br><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=s-quero&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">|<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=s-quero&theme=dark" alt="anii693" />
 | --- | --- |
 
 <br><br>
