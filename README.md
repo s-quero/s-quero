@@ -16,7 +16,7 @@ Me especializo en **JavaScript (React)** con dos años de experiencia desarrolla
 - 🔭 Actualmente trabajo como **coinstructor** para **Generation Chile**.
 - 🌱 Soy estudiante de **Análisis y Programación Computacional** en segundo año.
 - 💬 Pregúntame sobre Java y JavaScript.
-- 📫 Cómo contactarme: **[Correo](mailto:squero.s@icloud.com "squero.s@icloud.com")** / **[LinkedIn](https://www.linkedin.com/sebastianquero/ "https://www.linkedin.com/sebastianquero/")**
+- 📫 Cómo contactarme: **[Correo](mailto:quero.s@icloud.com "quero.s@icloud.com")** / **[LinkedIn](https://www.linkedin.com/in/sebastianquero/ "https://www.linkedin.com/in/sebastianquero/")**
 - 📄 Portafolio: [ Sebastián Quero | Portafolio ]()
 - ⚡ Dato curioso: soy una persona altruista, creo en las energías y el bienestar común.
 
