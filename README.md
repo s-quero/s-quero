@@ -1,4 +1,4 @@
-# Hola, soy Sebastián (Nox-E) Quero 👋 
+# Hola, soy Sebastián Quero 👋 
 ### Desarrollador full stack
 
 ##### Lenguajes:
