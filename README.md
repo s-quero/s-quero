@@ -55,20 +55,3 @@ Me especializo en **JavaScript (React)** con dos años de experiencia desarrolla
 ## 📈 Estadísticas GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=s-quero&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=s-quero&layout=compact&theme=radical)
-
-
-## 🏆 Logros y Certificaciones
-<img width="350" alt="Screenshot 2025-09-23 161726" src="https://github.com/user-attachments/assets/f8096ff7-3fd7-4435-8ab0-8584967096a6" />
-
-## 🎯 Proyectos Destacados
-### 🔥 [Password Generator](https://github.com/nox-e/password_generator)
-
-Generador de contraseñas robusto desarrollado en Java. La aplicación presenta una interfaz gráfica moderna y responsive construida con la librería Swing.
-**Tecnologías:** Java, AWT, Swing  
-
-<img alt="generator" src="https://github.com/user-attachments/assets/6366bd8c-cc54-4a87-b6cc-bec737df6429" width="600px"/>
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-2ea44f)](https://demo.com)
-[![GitHub](https://img.shields.io/badge/📁_Repository-181717)](https://github.com/nox-e/password_generator)
-
----
