@@ -51,7 +51,3 @@ Me especializo en **JavaScript (React)** con dos años de experiencia desarrolla
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
-
-## 📈 Estadísticas GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=s-quero&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=s-quero&layout=compact&theme=radical)
